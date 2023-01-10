@@ -17,8 +17,6 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / PYTHON / DJANGO / FLASK
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaPrantik&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YaPrantik)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=YaPrantik)  
 
 ![Profile views](https://gpvc.arturio.dev/YaPrantik)  
